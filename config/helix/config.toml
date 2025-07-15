@@ -1,1 +1,7 @@
 theme = "dracula-transparent"
+
+[editor]
+bufferline = "always"
+
+[editor.lsp]
+display-inlay-hints = true
